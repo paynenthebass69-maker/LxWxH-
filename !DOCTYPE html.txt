@@ -1,0 +1,39 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LxWxH Outdoors</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+</head>
+<body>
+  <header>
+    <h1>LxWxH Outdoors</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="posts.html">Brags & Complaints</a>
+      <a href="market.html">Marketplace</a>
+      <a href="contacts.html">Contacts</a>
+      <a href="admin.html">Admin</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <img src="images/deer-placeholder.jpg" alt="Deer in open field">
+    <div class="hero-text">
+      <h2>Land × Water × Hunt</h2>
+      <p>Where the outdoors come together.</p>
+    </div>
+  </section>
+
+  <section class="intro">
+    <h3>Welcome to LxWxH Outdoors</h3>
+    <p>Your spot for hunting, fishing, ranching, and outdoor stories. Share your wins, your fails, and your favorite places in the wild.</p>
+  </section>
+
+  <footer>
+    <p>📧 info@lxwxh.com | 📷 @LxWxH_Outdoors | 🌎 Land × Water × Hunt</p>
+  </footer>
+</body>
+</html>

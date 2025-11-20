@@ -1,0 +1,37 @@
+LxWxH Outdoors — Local Website
+------------------------------
+Created for: Payne N the Bass
+Version: v2
+Theme: Rustic light with burnt-orange highlights
+
+HOW TO OPEN:
+1. Unzip this folder anywhere on your computer.
+2. Open the folder named LxWxH_v2.
+3. Double-click index.html to open the website in your browser.
+
+ADMIN LOGIN:
+Username: Payne N the Bass
+Password: Borntwofish8369!
+
+FILES & STRUCTURE:
+- index.html: Homepage
+- posts.html: Brags & Complaints
+- market.html: Marketplace
+- contacts.html: Local business directory
+- admin.html: Admin panel
+- css/style.css: Design and layout
+- js/script.js: Login logic
+- images/: Placeholder images and favicon
+
+EDITING:
+Open the .html files in Notepad or VS Code.
+Replace placeholder text and images as you like.
+To change colors, edit css/style.css.
+
+NEXT STEPS (publish online):
+1. Visit https://www.netlify.com or https://pages.github.com.
+2. Drag your LxWxH_v2 folder into Netlify, or push it to a GitHub repository.
+3. Your website will instantly get a free public URL.
+
+SUPPORT:
+If you move images or rename files, update the paths inside each HTML page.
